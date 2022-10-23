@@ -1,4 +1,4 @@
-# helpdementia
+# Help Dementia
 HelpDementia project for Roche hackathon
 
 
